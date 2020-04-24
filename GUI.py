@@ -21,4 +21,4 @@ class GUI:
         self.statusLab.grid(row=2)
         
         gameButton = Button(masterKey,text="Start Game Over",command=self.newGame)
-        
+        gameButton.grid(row=3)
