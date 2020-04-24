@@ -65,6 +65,6 @@ class ConnectFour:
                     
                     if numOfDiscs == self.size['c']*self.size['r']:
                         return "There is a Draw"
-                    return False
+                    
     
     
