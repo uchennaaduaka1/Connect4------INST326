@@ -1,5 +1,5 @@
 import os
-import sys
+import s
 class Board:
     """"This class will create the game board. It initializes a list called board with 37 empty spaces representing an empty game board.
     
