@@ -129,11 +129,10 @@ class PlayGame:
                     continue
                 else:
                     break
-    
-            #o_choice = int(input("Player O, please choose a space (1-9): "))
+   
             
             board.computerMove("O")
-            #board.updateSpace(o_choice, "O")
+            
             refreshScreen()
         
             if board.isWinner("O"):
