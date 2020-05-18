@@ -1,4 +1,4 @@
-"""This module represents the win methods and win logic of our ConnectFour module
+"""This module represents the win methods and win logic of our ConnectFour module.
 We modified the methods to be used for testing. 
 No big changes were made so the methods should return the same results as if a game was running."""
 
