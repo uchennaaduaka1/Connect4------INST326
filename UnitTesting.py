@@ -1,4 +1,4 @@
-import unittest
+import unit
 import Win_Logic_Connect4
 
 class ConnectFourTestCases(unittest.TestCase):
