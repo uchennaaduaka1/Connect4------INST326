@@ -2,7 +2,7 @@
 We modified the methods to be used for testing. 
 No big changes were made so the methods should return the same results as if a game was running."""
 
-def isHorizontalWin(board,player)
+def isHorizontalWin(board,player):
     """This is the same method from the Board class of the ConnectFour module. 
     It was modified for testing, we removed the self part and had the method
     take in board and player as parameters."""
